@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iticaketer.github.io/sitemap
+Sitemap: https://iticaketer.github.io/app/sitemap
+Sitemap: https://iticaketer.github.io/assets/sitemap
+Sitemap: https://iticaketer.github.io/css/sitemap
+Sitemap: https://iticaketer.github.io/includes/sitemap
+Sitemap: https://iticaketer.github.io/item/sitemap
+Sitemap: https://iticaketer.github.io/src/sitemap
